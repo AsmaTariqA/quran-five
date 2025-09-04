@@ -148,16 +148,16 @@ export default function Judge() {
           </div>
           
           <h1 className="heading-font text-4xl sm:text-5xl lg:text-6xl font-bold bg-gradient-to-r from-teal-700 to-cyan-600 bg-clip-text text-transparent mb-4">
-            Qur'an Judgment
+            Qur&apos;an Judgment
           </h1>
           
           <div className="max-w-3xl mx-auto">
             <p className="text-slate-600 text-lg sm:text-xl leading-relaxed mb-4">
-              Ibn al-Qayyim رحمه الله said one form of abandoning the Qur'an is{" "}
+              Ibn al-Qayyim رحمه الله said one form of abandoning the Qur&apos;an is{" "}
               <span className="font-semibold text-teal-700">not judging by it</span>.
             </p>
             <p className="text-slate-500 text-base sm:text-lg">
-              Use this tool to search topics and find rulings directly from the Holy Qur'an.
+              Use this tool to search topics and find rulings directly from the Holy Qur&apos;an.
             </p>
           </div>
         </div>
@@ -264,7 +264,7 @@ export default function Judge() {
               <Search size={24} className="text-slate-400" />
             </div>
             <p className="text-slate-500 text-lg font-medium mb-2">
-              No results found for "{query}"
+              No results found for {query}
             </p>
             <p className="text-slate-400 text-sm">
               Try different keywords or check your spelling

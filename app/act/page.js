@@ -215,16 +215,16 @@ export default function Act() {
 
           {/* Ayah */}
           <div style={{ marginBottom: '32px' }}>
-            <h3 style={{ color: 'rgb(0,106,113)', fontSize: '1.125rem', fontWeight: '600', marginBottom: '12px' }}>Today's Reflection</h3>
+            <h3 style={{ color: 'rgb(0,106,113)', fontSize: '1.125rem', fontWeight: '600', marginBottom: '12px' }}>Today&apos;s Reflection</h3>
             <p style={{ color: 'rgb(72,166,167)', fontSize: '1.125rem', lineHeight: '1.7', fontStyle: 'italic', margin: 0 }}>
-              "{task?.ayah || 'Loading todays reflection...'}"
+              {task?.ayah || 'Loading todays reflection...'}
             </p>
           </div>
 
           {/* Action */}
           <div style={{ marginBottom: '32px' }}>
           <h3 style={{ color: 'rgb(0,106,113)', fontSize: '1.125rem', fontWeight: '600', marginBottom: '12px' }}>
-  Today's Action
+  Today&apos;s Action
 </h3>
 
             <p style={{ color: 'rgb(0,106,113)', fontSize: '1.25rem', lineHeight: '1.6', fontWeight: '500', margin: 0 }}>
@@ -288,7 +288,7 @@ export default function Act() {
           fontWeight: '500'
         }}>
           <p style={{ margin: 0 }}>
-            "And whoever relies upon Allah - then He is sufficient for him."
+            &apos;And whoever relies upon Allah - then He is sufficient for him.&apos;
           </p>
         </div>
       </div>

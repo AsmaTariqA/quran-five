@@ -24,7 +24,7 @@ export default function CurePage() {
 
         {/* Verse Card */}
         <div className="bg-white/25 backdrop-blur-md border border-white/20 rounded-2xl p-6 space-y-4">
-          <p className="italic text-xl md:text-2xl text-[rgb(0,106,113)]">"{current.verse}"</p>
+          <p className="italic text-xl md:text-2xl text-[rgb(0,106,113)]">{current.verse}</p>
           <p className="text-sm md:text-base text-[rgb(72,166,167)] font-semibold">{current.reference}</p>
         </div>
 

@@ -11,7 +11,7 @@ export default function Footer(){
         <span className="text-cyan-800 font-extrabold text-2xl">QuranFive</span>
       </div>
       <p className="text-teal-700 font-medium max-w-md">
-        "And whoever relies upon Allah - then He is sufficient for him."
+        &apos;And whoever relies upon Allah - then He is sufficient for him.&apos;
       </p>
     </div>
 

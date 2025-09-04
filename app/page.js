@@ -125,17 +125,17 @@ export default function Home() {
     </h2>
     
     <p className="text-xl text-[rgb(72,166,167)] max-w-3xl mx-auto leading-relaxed">
-      QuranFive was created to help you stay connected to the Qur’an and seek its guidance daily. 
+      QuranFive was created to help you stay connected to the Qur&apos;an and seek its guidance daily. 
       As Allah says: 
     </p>
 
     <p className="italic text-lg md:text-xl text-[rgb(0,106,113)] max-w-3xl mx-auto">
-      “And the Messenger (will) say: O My Lord, indeed my people took this Qur’aan as something worthy of being abandoned.” [25:30]
+      “And the Messenger (will) say: O My Lord, indeed my people took this Qur&apos;aan as something worthy of being abandoned.” [25:30]
     </p>
 
     <p className="text-[rgb(72,166,167)] max-w-3xl mx-auto leading-relaxed">
-      Ibn Qayyim emphasized that abandoning the Qur’an for other means is a spiritual loss. 
-      This is the inspiration behind QuranFive: to make daily engagement with the Qur’an simple, meaningful, and transformative.
+      Ibn Qayyim emphasized that abandoning the Qur&apos;an for other means is a spiritual loss. 
+      This is the inspiration behind QuranFive: to make daily engagement with the Qur&apos;an simple, meaningful, and transformative.
     </p>
   </div>
 </section>

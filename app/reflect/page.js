@@ -167,7 +167,7 @@ function QuranReflect() {
         <div className="bg-gradient-to-r from-[rgb(72,166,167)] to-[rgb(0,106,113)] text-white p-6 text-center">
           <div className="flex items-center justify-center mb-2">
             <Sparkles size={28} className="text-white mr-2" />
-            <h1 className="text-3xl font-bold">Qur'an Reflection Journey</h1>
+            <h1 className="text-3xl font-bold">Qur&apos;an Reflection Journey</h1>
           </div>
           <p className="opacity-95">Deepen your understanding through guided reflection</p>
         </div>
@@ -366,7 +366,7 @@ function QuranReflect() {
                         </button>
                       </div>
                       <div className="mb-4">
-                        <p className="text-[rgb(0,106,113)] italic">"{reflection.verseText}"</p>
+                        <p className="text-[rgb(0,106,113)] italic">{reflection.verseText}</p>
                       </div>
                       <div className="bg-[rgb(154,203,208)]/30 p-4 rounded-lg mb-4">
                         <p className="text-[rgb(0,106,113)] font-medium">{reflection.prompt}</p>
@@ -384,7 +384,7 @@ function QuranReflect() {
 
         {/* Footer */}
         <div className="bg-[rgb(154,203,208)]/30 p-4 text-center text-sm text-[rgb(0,106,113)] border-t border-[rgb(154,203,208)]">
-          <p>Reflection framework inspired by Ibn al-Qayyim's teachings</p>
+          <p>Reflection framework inspired by Ibn al-Qayyim&apos;s teachings</p>
         </div>
       </div>
     </div>
