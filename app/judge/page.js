@@ -289,7 +289,7 @@ export default function Judge() {
                   </div>
                   
                   <blockquote className="text-slate-700 text-lg sm:text-xl leading-relaxed mb-4 font-medium border-l-4 border-teal-300 pl-4 italic">
-                    "{result.text}"
+                    {result.text}
                   </blockquote>
                   
                   <div className="text-slate-500 text-sm">
